@@ -27,3 +27,10 @@
 		xx:xx TOKYO
 		 Kyoto Tour
 		(ACCOMODATION) XXXX
+-------------------------------------------------------------------------------	
+30 Apr 11:55 ttc school 
+		11:00 study
+		11:30 study
+		11:55 study
+		12:30 school out
+		

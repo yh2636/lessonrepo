@@ -1,5 +1,7 @@
 # Git練習用教材リポジトリ
 
+this is main (forget)
+
 このリポジトリは、fork と clone の練習用です。
 
 ## この回で行うこと
